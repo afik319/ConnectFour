@@ -2,13 +2,6 @@
 
 This is an implementation of the classic Connect Four game using Java and JavaFX. The game allows two players to take turns dropping colored tokens into a grid, with the objective of being the first player to form a horizontal, vertical, or diagonal line of four tokens of their color.
 
-## Running the Game
-
-You can run the game using the provided runnable .jar file. Simply double-click on the file or execute it from the command line using the following command:
-
-```bash
-java -jar ConnectFour.jar```
-
 ## Features
 
 - Interactive game board with a 6x7 grid
@@ -31,5 +24,12 @@ java -jar ConnectFour.jar```
 6. If a player wins, the winning line will be highlighted, and a winner announcement will be displayed.
 7. If the board is completely filled without a winner, the game ends in a tie.
 8. To start a new game, click the "Clear" button or press the "Delete" key.
+
+## Running the Game
+
+You can run the game using the provided runnable .jar file. Simply double-click on the file or execute it from the command line using the following command:
+
+```bash
+java -jar ConnectFour.jar
 
 
