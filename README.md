@@ -32,4 +32,3 @@ You can run the game using the provided runnable .jar file. Simply double-click 
 ```bash
 java -jar ConnectFour.jar
 
-
