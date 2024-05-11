@@ -7,7 +7,7 @@ This is an implementation of the classic Connect Four game using Java and JavaFX
 You can run the game using the provided runnable .jar file. Simply double-click on the file or execute it from the command line using the following command:
 
 ```bash
-java -jar ConnectFour.jar
+java -jar ConnectFour.jar```
 
 ## Features
 
